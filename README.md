@@ -2,7 +2,7 @@ Dockerized Wetty for CLIs
 ================
 **This Image does not run on its own!**
 
-This wetty version is designed to be used as the FROM image on another child image. The purpose of the image is to allow the second image to contain any head-less apps or CLIs installations and then benfit from the wetty browser. 
+This wetty version is designed to be used as the FROM image on another child image. The purpose of the image is to allow the second image to contain any head-less apps or CLIs installations and then benefit from the wetty browser. 
 
 _Note_ : Only Chrome is supported.
 

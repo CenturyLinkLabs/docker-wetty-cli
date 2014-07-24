@@ -17,5 +17,6 @@ To view, browse to:
 `http://localhost:8000`
 
 User: term
+
 PW: term
 

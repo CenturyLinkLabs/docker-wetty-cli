@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Inject docker environmental variables
+env | while read env; do echo "export $env" >> /home/term/.bashrc ; done
+
+#Start Wetty
+node app.js -p 3000

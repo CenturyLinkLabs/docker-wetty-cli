@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER patrickocox@gmail.com
+MAINTAINER CenturyLink
 
 # Install node & npm
 RUN apt-get -qqy update && \

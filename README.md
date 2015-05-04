@@ -1,5 +1,7 @@
 Dockerized Wetty for CLIs
 ================
+[![](https://badge.imagelayers.io/centurylink/wetty-cli.svg)](https://imagelayers.io/?images=centurylink/wetty-cli:latest 'Get your own badge on imagelayers.io')
+
 **This Image does not run on its own!**
 
 This wetty version is designed to be used as the FROM image on another child image. The purpose of the image is to allow the second image to contain any head-less apps or CLIs installations and then benefit from the wetty browser. 

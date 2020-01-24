@@ -1,3 +1,7 @@
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 Dockerized Wetty for CLIs
 ================
 [![](https://badge.imagelayers.io/centurylink/wetty-cli.svg)](https://imagelayers.io/?images=centurylink/wetty-cli:latest 'Get your own badge on imagelayers.io')
